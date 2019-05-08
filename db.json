@@ -1,0 +1,7562 @@
+{
+  "01.05.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,4229"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,5781"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,0969"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,0084"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,3806"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,6906"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,0388"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "63,4948"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,9293"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,2073"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,9553"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,3096"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "83,8592"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "82,3855"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,4080"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,6416"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "58,0591"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "92,5620"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,4310"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,9558"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,2812"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,7573"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,8764"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,2128"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,0904"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,4742"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,5381"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,4925"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,8518"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,4839"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,6314"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,5281"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,3458"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,1085"
+      }
+    }
+  },
+  "07.05.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,5761"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,6888"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,5116"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,3770"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,5892"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "31,0292"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,4933"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,2366"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "96,5594"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,4288"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,9359"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "73,1099"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "85,7130"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "83,2739"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,5838"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "94,1304"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "59,0119"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "93,3370"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,8145"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "17,1722"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,6433"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,6319"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "17,0743"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,3758"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,1923"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,9382"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "69,2475"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,6938"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,8944"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,6601"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "65,3350"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "77,3683"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "90,3642"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,1642"
+      }
+    }
+  },
+  "08.05.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,5332"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,8016"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,4419"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,3306"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,4290"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,9083"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,5351"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,0194"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "96,4600"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,3884"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,7995"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "73,0817"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "85,3816"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "83,0986"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,5425"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "94,0330"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "58,9369"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "93,4001"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,8333"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "17,1217"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,4848"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,8979"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "17,0425"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,3451"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,3104"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,8830"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "69,1220"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,6600"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,5859"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,7619"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "65,2166"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "77,2124"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "90,3654"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,0895"
+      }
+    }
+  },
+  "09.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,4051"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "46,4245"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,5204"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,5293"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,8767"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5759"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,8268"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "65,3890"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "97,2438"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,6321"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "98,3266"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "73,3617"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "85,3664"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "83,2524"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,8193"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "93,7923"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "58,6228"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "93,3569"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "57,0218"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "17,1666"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "37,5035"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "76,1688"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "17,1077"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,4484"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "70,3852"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "48,1895"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "69,2999"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,6981"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "11,5002"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,5413"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "65,3498"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "77,4930"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "90,6461"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "46,2169"
+      }
+    }
+  },
+  "09.05.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,5357"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,7971"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,4490"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,3761"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,4292"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,9287"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,4719"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,0942"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "96,3311"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,4159"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,9116"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "73,0888"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "85,1495"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "83,1066"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,5296"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "93,8678"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "59,2208"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "93,1884"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,7970"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "17,1465"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,4101"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,6854"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "17,0421"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,3656"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,2045"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,9411"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "69,0945"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,6634"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,5896"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,8941"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "65,2287"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "77,2267"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "90,3822"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,5740"
+      }
+    }
+  },
+  "10.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,3011"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "46,3023"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,1825"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,3266"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,8299"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,4373"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,6969"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,8609"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "96,4957"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,4945"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,8011"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,9708"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "84,7084"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "82,5832"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,7422"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "93,1100"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "58,2183"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "92,5512"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,7782"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "17,0442"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "37,0682"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,8686"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "17,0303"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,3656"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "70,0454"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,8657"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,6920"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,5341"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "11,4106"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,2165"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,7766"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,6690"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,8866"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "46,0617"
+      }
+    }
+  },
+  "11.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,3314"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "46,2742"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,1593"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,2889"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,8158"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5005"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,5906"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,6856"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "96,3783"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,4660"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,7049"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,9460"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "84,6246"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "82,5731"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,6616"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "93,5632"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "58,2458"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "92,4885"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,8095"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "17,0797"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,9400"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,9658"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "17,0231"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,3170"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "69,8865"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,8437"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,6504"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,5228"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "11,3626"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,2045"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,7373"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,9674"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,9544"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "46,1470"
+      }
+    }
+  },
+  "12.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2782"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "46,0776"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,9600"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,1326"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,8350"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,4833"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,2282"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,3026"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,8805"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,3759"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,2855"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,6551"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "84,1954"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "82,1071"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,5867"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "93,4471"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,9415"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "92,0013"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,4813"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "17,0287"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,6424"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,6808"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,9583"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,2576"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "69,4615"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,5762"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,2917"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,4261"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "11,2866"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "23,9836"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,3991"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,2222"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,4671"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "46,2464"
+      }
+    }
+  },
+  "13.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2861"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "46,0781"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,0295"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,2694"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,7268"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5971"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,3310"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,3947"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "96,0734"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,4567"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,6555"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,8398"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "84,2722"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "82,2576"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,6201"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "93,2395"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,6380"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "92,3983"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,6959"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,9903"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,5019"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,7875"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "17,0158"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,3185"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "69,5865"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,5825"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,4169"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,4598"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "11,1873"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,1431"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,5171"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,3618"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,6697"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "46,1575"
+      }
+    }
+  },
+  "16.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2441"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "46,0715"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,8703"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,1799"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,5504"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5559"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,1755"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,1187"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,8037"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,3807"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,4294"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,7018"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "84,1956"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "81,9424"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,6357"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,7311"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,4069"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "91,7813"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,7026"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,9213"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,1141"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,6772"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,9911"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,2700"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "69,4351"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,5058"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,1303"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,3825"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "11,0814"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "23,9893"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,2469"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,0421"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,3212"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "46,0925"
+      }
+    }
+  },
+  "17.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2595"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,8946"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,8675"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,1428"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,5915"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5711"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "47,9670"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "64,0118"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,7738"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,3342"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "97,3795"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,6515"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "84,0738"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "81,9353"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,7205"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,2921"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,3975"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "91,8402"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,5537"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,9067"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,0405"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,7029"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,9966"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,2594"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "69,4135"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,4392"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,0892"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,3812"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "11,0755"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,0380"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,2422"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,1333"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,3294"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,7425"
+      }
+    }
+  },
+  "18.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2227"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "46,0724"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,6923"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "37,0095"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,3747"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5270"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,0284"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "63,4375"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,6330"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,2031"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,9672"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,3602"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "83,4418"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "81,5053"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,6792"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,1265"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,0810"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "91,7103"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,4461"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,8596"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "35,7734"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,5592"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,9400"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,2138"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "69,3051"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,2861"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "67,7355"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,2961"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "11,1238"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "23,9245"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "63,9450"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "75,6490"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "88,8816"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,8502"
+      }
+    }
+  },
+  "19.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2758"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,8861"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,7653"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "36,8550"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,2673"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5788"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "47,9377"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "63,4093"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,5609"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,0683"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,5604"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,2440"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "83,3791"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "81,6662"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,5222"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,1588"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,2733"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "91,7516"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,3059"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,8878"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "35,8026"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,8476"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,8522"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,1338"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,6527"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,2728"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "67,9415"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,3316"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,9686"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "23,8718"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,0688"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "75,7735"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,0825"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,4837"
+      }
+    }
+  },
+  "20.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2587"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,7635"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,7013"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "36,7820"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,2860"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5314"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "47,8422"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "63,1269"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,4160"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "27,9999"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,3503"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "71,9232"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "83,1419"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "81,5340"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,4761"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,1637"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,1481"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "91,6040"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "56,2733"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,8680"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "35,7819"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,2331"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,8210"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,1163"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,8277"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,1961"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "67,7580"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,3005"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,9999"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "23,8468"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "63,9602"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "75,6447"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "88,7544"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,4463"
+      }
+    }
+  },
+  "23.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2309"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,5241"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,5986"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "36,6713"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,2409"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5459"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "47,7333"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "62,8495"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,0229"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "27,9090"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,0647"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "71,7210"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "82,8899"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "81,3047"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,3913"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "91,6953"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "56,9950"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "91,3936"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,8816"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,9014"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "35,8348"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "75,0132"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,7580"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,0712"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,5237"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,0121"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "67,6416"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,2506"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,9122"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "23,8765"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "63,7860"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "75,4608"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "88,4865"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,2280"
+      }
+    }
+  },
+  "24.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2511"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,3806"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,6013"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "36,6992"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,2103"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5525"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "47,7403"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "62,6504"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "94,9434"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "27,9110"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,1426"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "71,7453"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "82,9023"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "81,3147"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,3780"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "91,5033"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,0348"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "91,3611"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,8367"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,8924"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "35,7370"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,8435"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,7364"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,0866"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,3437"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,0016"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "67,5762"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,2520"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,9337"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "23,9095"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "63,7906"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "75,5915"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "88,4859"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "44,8667"
+      }
+    }
+  },
+  "25.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,2807"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,0674"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "37,7128"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "36,6836"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,3226"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,5378"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "47,5439"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "62,7930"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,2406"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "27,8658"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,0975"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "71,7150"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "82,7003"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "81,5778"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,3354"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "91,5763"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,2142"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "91,6616"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,6167"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,8799"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "35,8430"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,6181"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,7285"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,0871"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,3078"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,0786"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "67,8471"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,3061"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,9048"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,0695"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "63,9798"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "75,8537"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "88,7528"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "44,5877"
+      }
+    }
+  },
+  "26.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,4259"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,2950"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,1252"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "36,8292"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,2055"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,6320"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "47,8858"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "63,3367"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "95,9251"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "27,9761"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,4759"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,1111"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "83,3523"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "82,4635"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,3503"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,2049"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,8140"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "92,7303"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,5093"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "17,0151"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,1843"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,4451"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,7659"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,1332"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "67,6782"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,4050"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,5890"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,5063"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,9751"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,2962"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,6794"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,6448"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,5739"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "44,6182"
+      }
+    }
+  },
+  "27.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,4313"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,5072"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,1405"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "36,8565"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,3637"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,6762"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,0010"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "63,3931"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "96,0261"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,0292"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,5549"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,0882"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "83,5022"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "82,4807"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,3615"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,3161"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,9511"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "92,6346"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,7526"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,9752"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,1988"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,6295"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,8018"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,1528"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,0879"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,4832"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,5307"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,5137"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,9176"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,4366"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,7053"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,6528"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,3347"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "44,9852"
+      }
+    }
+  },
+  "30.04.2019": {
+    "Currency": {
+      "AMD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "051",
+        "CharCode": "AMD",
+        "Nominal": "100",
+        "Name": "Армянских драмов",
+        "Value": "13,4355"
+      },
+      "AUD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "036",
+        "CharCode": "AUD",
+        "Nominal": "1",
+        "Name": "Австралийский доллар",
+        "Value": "45,6141"
+      },
+      "AZN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "944",
+        "CharCode": "AZN",
+        "Nominal": "1",
+        "Name": "Азербайджанский манат",
+        "Value": "38,1324"
+      },
+      "BGN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "975",
+        "CharCode": "BGN",
+        "Nominal": "1",
+        "Name": "Болгарский лев",
+        "Value": "36,9034"
+      },
+      "BRL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "986",
+        "CharCode": "BRL",
+        "Nominal": "1",
+        "Name": "Бразильский реал",
+        "Value": "16,4648"
+      },
+      "BYN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "933",
+        "CharCode": "BYN",
+        "Nominal": "1",
+        "Name": "Белорусский рубль",
+        "Value": "30,6916"
+      },
+      "CAD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "124",
+        "CharCode": "CAD",
+        "Nominal": "1",
+        "Name": "Канадский доллар",
+        "Value": "48,0408"
+      },
+      "CHF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "756",
+        "CharCode": "CHF",
+        "Nominal": "1",
+        "Name": "Швейцарский франк",
+        "Value": "63,4543"
+      },
+      "CNY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "156",
+        "CharCode": "CNY",
+        "Nominal": "10",
+        "Name": "Китайских юаней",
+        "Value": "96,0502"
+      },
+      "CZK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "203",
+        "CharCode": "CZK",
+        "Nominal": "10",
+        "Name": "Чешских крон",
+        "Value": "28,1122"
+      },
+      "DKK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "208",
+        "CharCode": "DKK",
+        "Nominal": "10",
+        "Name": "Датских крон",
+        "Value": "96,7136"
+      },
+      "EUR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "978",
+        "CharCode": "EUR",
+        "Nominal": "1",
+        "Name": "Евро",
+        "Value": "72,2024"
+      },
+      "GBP": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "826",
+        "CharCode": "GBP",
+        "Nominal": "1",
+        "Name": "Фунт стерлингов Соединенного королевства",
+        "Value": "83,7305"
+      },
+      "HKD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "344",
+        "CharCode": "HKD",
+        "Nominal": "10",
+        "Name": "Гонконгских долларов",
+        "Value": "82,4718"
+      },
+      "HUF": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "348",
+        "CharCode": "HUF",
+        "Nominal": "100",
+        "Name": "Венгерских форинтов",
+        "Value": "22,3924"
+      },
+      "INR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "356",
+        "CharCode": "INR",
+        "Nominal": "100",
+        "Name": "Индийских рупий",
+        "Value": "92,5920"
+      },
+      "JPY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "392",
+        "CharCode": "JPY",
+        "Nominal": "100",
+        "Name": "Японских иен",
+        "Value": "57,8923"
+      },
+      "KGS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "417",
+        "CharCode": "KGS",
+        "Nominal": "100",
+        "Name": "Киргизских сомов",
+        "Value": "92,6483"
+      },
+      "KRW": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "410",
+        "CharCode": "KRW",
+        "Nominal": "1000",
+        "Name": "Вон Республики Корея",
+        "Value": "55,7298"
+      },
+      "KZT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "398",
+        "CharCode": "KZT",
+        "Nominal": "100",
+        "Name": "Казахстанских тенге",
+        "Value": "16,9361"
+      },
+      "MDL": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "498",
+        "CharCode": "MDL",
+        "Nominal": "10",
+        "Name": "Молдавских леев",
+        "Value": "36,3151"
+      },
+      "NOK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "578",
+        "CharCode": "NOK",
+        "Nominal": "10",
+        "Name": "Норвежских крон",
+        "Value": "74,5734"
+      },
+      "PLN": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "985",
+        "CharCode": "PLN",
+        "Nominal": "1",
+        "Name": "Польский злотый",
+        "Value": "16,8144"
+      },
+      "RON": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "946",
+        "CharCode": "RON",
+        "Nominal": "1",
+        "Name": "Румынский лей",
+        "Value": "15,1823"
+      },
+      "SEK": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "752",
+        "CharCode": "SEK",
+        "Nominal": "10",
+        "Name": "Шведских крон",
+        "Value": "68,0586"
+      },
+      "SGD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "702",
+        "CharCode": "SGD",
+        "Nominal": "1",
+        "Name": "Сингапурский доллар",
+        "Value": "47,5150"
+      },
+      "TJS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "972",
+        "CharCode": "TJS",
+        "Nominal": "10",
+        "Name": "Таджикских сомони",
+        "Value": "68,5475"
+      },
+      "TMT": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "934",
+        "CharCode": "TMT",
+        "Nominal": "1",
+        "Name": "Новый туркменский манат",
+        "Value": "18,5098"
+      },
+      "TRY": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "949",
+        "CharCode": "TRY",
+        "Nominal": "1",
+        "Name": "Турецкая лира",
+        "Value": "10,8973"
+      },
+      "UAH": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "980",
+        "CharCode": "UAH",
+        "Nominal": "10",
+        "Name": "Украинских гривен",
+        "Value": "24,5068"
+      },
+      "USD": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "840",
+        "CharCode": "USD",
+        "Nominal": "1",
+        "Name": "Доллар США",
+        "Value": "64,6917"
+      },
+      "UZS": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "860",
+        "CharCode": "UZS",
+        "Nominal": "10000",
+        "Name": "Узбекских сумов",
+        "Value": "76,6593"
+      },
+      "XDR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "960",
+        "CharCode": "XDR",
+        "Nominal": "1",
+        "Name": "СДР (специальные права заимствования)",
+        "Value": "89,3774"
+      },
+      "ZAR": {
+        "XMLName": {
+          "Space": "",
+          "Local": "Valute"
+        },
+        "NumCode": "710",
+        "CharCode": "ZAR",
+        "Nominal": "10",
+        "Name": "Южноафриканских рэндов",
+        "Value": "45,1704"
+      }
+    }
+  }
+}
