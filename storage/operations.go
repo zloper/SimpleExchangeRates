@@ -1,11 +1,29 @@
 package storage
 
 import (
+	"ExchangeRatesRussia/storage"
 	"fmt"
+	"net/http"
 	"strconv"
 	"strings"
 	"time"
 )
+
+func funcProvider(writer http.ResponseWriter, rq *http.Request) {
+	rqMsg := strings.TrimPrefix(rq.URL.Path, "/")
+
+	if rqMsg == "GetCurrent" {
+		storage.GetCurrent("GBP")
+	} else if rqMsg == "GetLastMonth" {
+		storage.GetLastMonth()
+	} else if rqMsg == "GetBestOf" {
+		storage.GetBestOf("GBP", 14)
+	}
+
+	if _, err := writer.Write([]byte(rqMsg)); err != nil {
+		panic(err)
+	}
+}
 
 func GetLastMonth() {
 	ClearStorage()
