@@ -1,15 +1,14 @@
 package main
 
-import "ExchangeRatesRussia/storage"
+import (
+	"SimpleExchangeRates/storage"
+	"net/http"
+)
 
 func main() {
-	//TODO refresh every day
-	//storage.GetLastMonth()
-	//TODO callable
-	//storage.GetCurrent("GBP")
-	//TODO callable
-	storage.GetBestOf("GBP", 30)
-
-	storage.GetBestOf("GBP", 2)
+	http.HandleFunc("/", storage.FuncProvider)
+	if err := http.ListenAndServe(":8087", nil); err != nil {
+		panic(err)
+	}
 
 }

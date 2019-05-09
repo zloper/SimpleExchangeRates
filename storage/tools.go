@@ -102,3 +102,26 @@ func Update(dt string, data map[string]Valute) {
 func LastDate() string {
 	return time.Now().AddDate(0, 0, 1).Format("02.01.2006")
 }
+
+func GetLatestDate() string {
+	layout := "02.01.2006"
+
+	maxDate, err := time.Parse(layout, "01.01.1900")
+	if err != nil {
+		panic(err)
+	}
+
+	history := GetHistory()
+	for key, _ := range history {
+		curentDate, err := time.Parse(layout, key)
+		if err != nil {
+			fmt.Println(err)
+			panic(err)
+		}
+
+		if maxDate.Unix() < curentDate.Unix() {
+			maxDate = curentDate
+		}
+	}
+	return maxDate.Format("02.01.2006")
+}

@@ -1,7 +1,6 @@
 package storage
 
 import (
-	"ExchangeRatesRussia/storage"
 	"fmt"
 	"net/http"
 	"strconv"
@@ -9,15 +8,15 @@ import (
 	"time"
 )
 
-func funcProvider(writer http.ResponseWriter, rq *http.Request) {
+func FuncProvider(writer http.ResponseWriter, rq *http.Request) {
 	rqMsg := strings.TrimPrefix(rq.URL.Path, "/")
 
 	if rqMsg == "GetCurrent" {
-		storage.GetCurrent("GBP")
+		_, rqMsg = GetCurrent("GBP")
 	} else if rqMsg == "GetLastMonth" {
-		storage.GetLastMonth()
+		GetLastMonth()
 	} else if rqMsg == "GetBestOf" {
-		storage.GetBestOf("GBP", 14)
+		rqMsg = GetBestOf("GBP", 14)
 	}
 
 	if _, err := writer.Write([]byte(rqMsg)); err != nil {
@@ -35,18 +34,19 @@ func GetLastMonth() {
 	}
 }
 
-func GetCurrent(cur string) Valute {
+func GetCurrent(cur string) (Valute, string) {
 	history := GetHistory()
-	result := history[LastDate()].Currency[cur]
+	result := history[GetLatestDate()].Currency[cur]
 
-	fmt.Println(result.Name)
-	fmt.Println(result.CharCode)
-	fmt.Println(result.Value + " p.")
-	return result
+	strResult := "[" + GetLatestDate() + "]\n"
+	strResult += result.Name + "\n"
+	strResult += result.CharCode + "\n"
+	strResult += result.Value + " p." + "\n"
+	fmt.Println(strResult)
+	return result, strResult
 }
 
-func GetBestOf(cur string, days int) {
-
+func GetBestOf(cur string, days int) string {
 	history := GetHistory()
 	maxValue := 0.0
 	bestDate := ""
@@ -61,6 +61,8 @@ func GetBestOf(cur string, days int) {
 		}
 
 	}
-	fmt.Println("Best price:", maxValue, "("+bestDate+")")
+	strFloat := strconv.FormatFloat(maxValue, 'f', -1, 64)
+	result := "Best price:" + strFloat + "(" + bestDate + ")"
+	return result
 
 }
