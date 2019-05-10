@@ -22,6 +22,7 @@ func FuncProvider(writer http.ResponseWriter, rq *http.Request) {
 		_, rqMsg = GetCurrent(cur)
 	} else if rqMsg == "GetLastMonth" {
 		GetLastMonth()
+		rqMsg = "Get last 30 days exchange rates info"
 	} else if rqMsg == "GetBestOf" {
 		//help: ...:8087/GetBestOf?cur=GBP&days=14
 		cur := LstToStr(args["cur"])
