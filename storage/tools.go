@@ -9,6 +9,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
+	"strings"
 	"time"
 )
 
@@ -124,4 +125,8 @@ func GetLatestDate() string {
 		}
 	}
 	return maxDate.Format("02.01.2006")
+}
+
+func LstToStr(s []string) string {
+	return strings.Join(s, " ")
 }

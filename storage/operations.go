@@ -10,13 +10,28 @@ import (
 
 func FuncProvider(writer http.ResponseWriter, rq *http.Request) {
 	rqMsg := strings.TrimPrefix(rq.URL.Path, "/")
+	err := rq.ParseForm()
+	if err != nil {
+		panic(err)
+	}
+	args := rq.Form
 
 	if rqMsg == "GetCurrent" {
-		_, rqMsg = GetCurrent("GBP")
+		//help: ...:8087/GetCurrent?cur=GBP
+		cur := LstToStr(args["cur"])
+		_, rqMsg = GetCurrent(cur)
 	} else if rqMsg == "GetLastMonth" {
 		GetLastMonth()
 	} else if rqMsg == "GetBestOf" {
-		rqMsg = GetBestOf("GBP", 14)
+		//help: ...:8087/GetBestOf?cur=GBP&days=14
+		cur := LstToStr(args["cur"])
+		days, err := strconv.Atoi(LstToStr(args["days"]))
+		if err != nil {
+			fmt.Println(err)
+			rqMsg = fmt.Sprintf("%s", err)
+		} else {
+			rqMsg = GetBestOf(cur, days)
+		}
 	}
 
 	if _, err := writer.Write([]byte(rqMsg)); err != nil {
