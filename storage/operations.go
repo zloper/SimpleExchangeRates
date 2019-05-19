@@ -33,6 +33,10 @@ func FuncProvider(writer http.ResponseWriter, rq *http.Request) {
 		} else {
 			rqMsg = GetBestOf(cur, days)
 		}
+	} else if rqMsg == "GetAllDays" {
+		//help: ...:8087/GetAllDays?cur=GBP
+		cur := LstToStr(args["cur"])
+		rqMsg = GetAllDays(cur, 7)
 	}
 
 	if _, err := writer.Write([]byte(rqMsg)); err != nil {
@@ -81,4 +85,22 @@ func GetBestOf(cur string, days int) string {
 	result := "Best price:" + strFloat + "(" + bestDate + ")"
 	return result
 
+}
+
+func GetAllDays(cur string, days int) string {
+	history := GetHistory()
+	result := ""
+	for i := 1; i > days*(-1); i-- {
+		dt := time.Now().AddDate(0, 0, i).Format("02.01.2006")
+		strNum := history[dt].Currency[cur].Value
+		strNum = strings.Replace(strNum, ",", ".", -1)
+		strNum = strings.Trim(strNum, " ")
+		if strNum != "" {
+			fmt.Println(dt)
+			result = strNum + "," + result
+		}
+	}
+	result = cur + "=" + result
+	result = strings.Trim(result, ",")
+	return result
 }
